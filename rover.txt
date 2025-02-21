@@ -1,0 +1,5 @@
+treinar
+academia
+dormir
+comer
+dormir*2
